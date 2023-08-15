@@ -2,11 +2,11 @@
 
 `functionality check`
 
-1. version check: 1.2.0
+1. version check: `1.2.0`
 
-2. user-contain: protfolio-site
+2. user-contain: `protfolio-site`
 
-3. server-hosted: github
+3. server-hosted: `github`
 
 4. confidentialty and copyright:
 
