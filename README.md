@@ -2,7 +2,7 @@
 
 `functionality check`
 
-1. version check: `1.2.0`
+1. version check: `1.2.1`
 
 2. user-contain: `protfolio-site`
 
